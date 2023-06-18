@@ -1,5 +1,7 @@
 # HTML CSS Git Challenge: Code Refactor
 
+## Description
+In this challenge, the individual was assigned with the task of refactoring the codebase for Horiseon, a fictional marketing agency.
 ## User Story 
 ```
 AS A marketing agency
