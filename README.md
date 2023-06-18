@@ -44,10 +44,10 @@ Open the HTML file in your preferred web browser. You can do this by double-clic
 - Well-documented code: The project includes clear and concise code comments, making it easier for other developers to understand and contribute to the project
 
 ## Screenshot
-![Screenshot of deployed application on browser".](/Assets/Screenshot%202023-06-18%20204547.png)
+![Screenshot of deployed application on browser".](/assets/Screenshot%202023-06-18%20204547.png)
 
 The URL of the deployed application:
-https://charltonortega.github.io/Horiseon-Refactor-Project/
+https://charltonortega.github.io/Challenge-Code-Refactor/
 
 The URL of the GitHub repository:
-https://github.com/Charltonortega/Horiseon-Refactor-Project
+https://github.com/Charltonortega/Challenge-Code-Refactor
