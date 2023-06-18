@@ -49,7 +49,7 @@ Open the HTML file in your preferred web browser. You can do this by double-clic
 ![Screenshot of deployed application on browser".](/assets/Screenshot%202023-06-18%20204547.png)
 
 The URL of the deployed application:
-https://charltonortega.github.io/Challenge-Code-Refactor/
+https://charltonortega.github.io/HTML-CSS-Git-Challenge-Code-Refactor/
 
 The URL of the GitHub repository:
-https://github.com/Charltonortega/Challenge-Code-Refactor
+https://github.com/Charltonortega/HTML-CSS-Git-Challenge-Code-Refactor
